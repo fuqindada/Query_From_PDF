@@ -24,6 +24,10 @@
 
 ### 功能说明
 
+### demo.py
+- **来自网页**：
+- 链接：https://www.cnblogs.com/xiaoxi666/p/18014457
+
 ### bge-m3/
 - **下放预训练的embedding模型**：
 - 下载链接：https://platform.virtaicloud.com/gemini_web/workspace/space/ixd7dxy5ecw2/model/detail/499462114227462144
